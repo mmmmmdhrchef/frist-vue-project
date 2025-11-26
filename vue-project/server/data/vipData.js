@@ -1,0 +1,29 @@
+module.exports = {
+    menu:[
+        {
+            path:'/home',
+            name:'首页',
+            icon:'House'
+        },
+        {
+            path:'/project',
+            name:'项目基础信息',
+            icon:'PieChart'
+        },
+        {
+            path:'/tunnel',
+            name:'隧道设计信息',
+            icon:'Position'
+        },
+        {
+            path:'/build',
+            name:'施工监控管理',
+            icon:'View'
+        },
+        {
+            path:'/geological',
+            name:'超前地质预报',
+            icon:'Bell'
+        },  
+    ]
+}
